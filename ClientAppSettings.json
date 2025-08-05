@@ -1,0 +1,9 @@
+{
+  "DFIntTaskSchedulerTargetFps": 9999,
+  "DFIntTaskSchedulerMaxFps": 9999,
+  "DFIntTaskSchedulerBaseFps": 9999,
+  "FFlagRenderVSync": false,
+  "FFlagDebugEnableFastFlagSettings": true,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
+  "FFlagGameBasicSettingsFramerateCap5": false
+}
