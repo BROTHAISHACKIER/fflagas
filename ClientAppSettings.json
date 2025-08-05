@@ -71,5 +71,5 @@
   "FFlagDisableAnimationSystem": false,
   "FFlagForceDisableLayerClothing": true,
   "FFlagForceNoTextureMemory": true,
-  "FFlagForceCullAllMeshes": false,
+  "FFlagForceCullAllMeshes": false
 }
